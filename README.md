@@ -19,9 +19,9 @@
   Results of each of the above are displayed below, in the same order.
   <br>
   <br>
-  <img width="250" height="250" src="/images/grayinbuilt.png">
-  <img width="250" height="250" src="/images/grayavg.png">
-  <img width="250" height="250" src="/images/graytransform.png">
+  <img width="265" height="265" src="/images/grayinbuilt.png">
+  <img width="265" height="265" src="/images/grayavg.png">
+  <img width="265" height="265" src="/images/graytransform.png">
   
   <hr>
   Next up, pixel intensities from each of the channels were picked up, and three grayscales were created, each having the intensities of a particular channel from the original image
