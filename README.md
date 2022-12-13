@@ -41,7 +41,15 @@
   <br>
   <br>
   <p align="center">
-  <img width="300" height="300" src="/images/8bit.png">
-    <img width="300" height="300" src="/images/8bitheq.png">
+  <img width="300" height="300" src="/images/8bitss.png">
+    <img width="300" height="300" src="/images/8bitheqss.png">
+  </p>
+  Then the logic was extended and applied to a larger image
+  <br>
+  <br>
+  <p align="center">
+    <!-- 1024 by 683-->
+  <img width="442" height="300" src="/images/hawk.jpg">
+    <img width="442" height="300" src="/images/hawkrecon.png">
   </p>
 </details>
