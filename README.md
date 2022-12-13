@@ -24,7 +24,7 @@
   <img width="265" height="265" src="/images/graytransform.png">
   
   <hr>
-  Next up, pixel intensities from each of the channels were picked up, and three grayscales were created, each having the intensities of a particular channel from the original image
+  Next up, pixel intensities from each of the channels were picked up, and three grayscales were created, each having the intensities of a particular channel from the original image. The three images in order correspond to the blue channel, the green channel and the red channel respectively.
   <br>
   <br>
   <img width="900" height="300" src="/images/singlechannel.png">
