@@ -11,7 +11,7 @@ Original file is located at
 /
 / IMPORTANT NOTE
 / Original File was created in Google Colaboratory, which has a few differences as compared to running the file directly on your system.
-/ For those who are trying to run on their systems, use the path of images in your location, and remove anything in the below code relating to drive
+/ For those who are trying to run on their systems, use the path of images in your system, and remove anything in the below code related to drive
 / Also, as per the generic openCV approach goes, replace cv2_imshow() by cv2.imshow(), and keep in mind that the latter takes 2 arguments instead of 1
 /
 ----------------------
